@@ -1,0 +1,4 @@
+El directorio "fotos_y_videos" es para que Motion guarde las imágenes que toma.
+
+Para que motion funcione, debes cambiar los permisos de este directorio mediante:
+sudo chmod 777 /scripts/camara_seguridad/fotos_y_videos
